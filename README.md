@@ -12,3 +12,7 @@ Here's the description of the selected fields:
 * `ds_part`: 'train'/'test' for the train/test part of dataset, correspondingly
 
 ## Workflow Steps
+* Categorized IMDB movie reviews into positive and negative clusters using multinominal Naive Bays and logistic regression classifiers.
+* Analyzed preliminary data using descriptive statistics and handled anomalies such as duplicates and missing values.
+* Developed NLP models for sentiment analysis, working with the NLTK library and creating pipelines to process and find patterns.
+
